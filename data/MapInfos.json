@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Bureau","order":1,"parentId":0,"scrollX":819,"scrollY":448},
+{"id":2,"expanded":true,"name":"Cafet","order":2,"parentId":1,"scrollX":819,"scrollY":448},
+{"id":3,"expanded":false,"name":"Bureau du RH","order":3,"parentId":2,"scrollX":819,"scrollY":448},
+{"id":4,"expanded":false,"name":"Couloir PDG","order":4,"parentId":0,"scrollX":655.2,"scrollY":358.4},
+{"id":5,"expanded":false,"name":"Bureau du PDG","order":5,"parentId":0,"scrollX":819,"scrollY":448}
+]
